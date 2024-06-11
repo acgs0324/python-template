@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Cheung"
+    given-names: "Angus"
+    email: "anguscheungangus@gmail.com"
+repository-code: "https://github.com/acgs0324/python-template"
+title: "Python Template: A cookiecutter package with UCL ARC recommendations."
+license: "BSD-3"
