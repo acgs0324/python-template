@@ -138,4 +138,4 @@ mkdocs serve
 
 ## Acknowledgements
 
-This work was funded by a grant from the .
+This work was funded by a grant from the UCL-ARC.
